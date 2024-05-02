@@ -1,0 +1,5 @@
+cd caminho/do/seu/diretorio
+pip install -r requirements.txt
+cd caminho/do/seu/diretorio
+pyinstaller meu_script.py
+cd dist
